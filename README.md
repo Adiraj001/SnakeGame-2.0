@@ -19,3 +19,11 @@ Ensure you have the following dependencies installed:
 2. Install Pygame using:  
    ```bash
    pip install pygame
+
+## How to Play
+- Use arrow keys to move the snake.
+- Eat food to increase the snake’s length and score.
+- Avoid crashing into the snake’s tail.
+- Press 'R' to restart after game over.
+- Press O To Increase Score
+- Press P To Decrease Score
